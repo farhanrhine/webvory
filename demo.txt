@@ -1,0 +1,74 @@
+You: I need a modest evening gown under $300 in size 8. I prefer something on sale.
+AI: Here are the top options matching your criteria:
+
+**Top Picks:**
+1. **P0028** - $226 (Was $246)  
+   *Lumiere Style 28* – Sparkle, modest, bridal  
+   ⭐ Score: 97 | Size 8 (5 in stock)  
+
+2. **P0004** - $120 (Was $140)  
+   *Lumiere Style 4* – Modest lace cocktail gown  
+   ⭐ Score: 90 | Size 8 (5 in stock)  
+
+3. **P0056** - $156 (Was $216)  
+   *Nocturne Style 56* – Modest fitted sleeve dress  
+   ⭐ Score: 85 | Size 8 (7 in stock)  
+
+**Budget-Friendly:**  
+- **P0080** - $83 (Was $103)  
+  *Aurelia Couture Style 80* – Evening lace sleeve  
+  ⭐ Score: 30 | Size 8 (10 in stock)  
+  ⚠️ Note: Aurelia Couture exchanges only (no refunds).  
+
+**Notes:**  
+- All sale items must be returned within **7 days** for store credit.  
+- Looking for more options? I can refine by brand (e.g., Nocturne’s 21-day return policy).  
+
+Would you like details on any of these?
+
+You: I'm looking for a cocktail dress with lace. Budget is $200. Size 6.
+AI: Here are top cocktail dresses with lace within your budget:
+
+**Top Picks:**
+1. **P0004 Lumiere Style 4** ($120, was $140)  
+   - Modest lace cocktail dress  
+   - ⭐ Score: 90 | Stock: 11  
+   - *Returnable 7 days (sale item)*  
+
+2. **P0010 Velour House Style 10** ($109, was $129)  
+   - Sleeveless flowy cocktail dress  
+   - ⭐ Score: 89 | Stock: 16  
+   - *Returnable 7 days (sale item)*  
+
+3. **P0035 Aurelia Couture Style 35** ($122, was $182)  
+   - Modest lace with sleeves  
+   - ⭐ Score: 54 | Stock: 14  
+   - ❗ Final sale (clearance)  
+   - 💬 *Aurelia Couture: Exchanges only*  
+
+**Important Notes:**  
+- **Clearance items** (marked FINAL SALE) cannot be returned.  
+- **Aurelia Couture** products only offer exchanges, no refunds.  
+- **Sale items** (including P0004, P0010) get 7-day return window (store credit only).  
+
+Would you like details about a specific dress?
+
+You: I want to return order O0044. The dress doesn't fit.
+AI: The return for order O0044 is **denied** under the current policy:
+- **Aurelia Couture** only allows **exchanges** (no refunds)
+- The **7-day return window expired 11 days ago**
+
+Since the dress is from a vendor with strict exchange-only policy, you may:
+1. Contact customer support to request a size exchange (if stock is available)
+2. Receive store credit for the item (subject to approval)
+
+Would you like me to connect you with customer support?
+
+You: Order O0043 — I bought this weeks ago. Can I get a refund?
+AI: The order was placed on January 18, 2026, and today's evaluation shows it's **past Nocturne's 21-day return window (48 days elapsed)**. 
+
+**Final decision:** ❌ No refunds or exchanges available for this order.  
+Nocturne vendor policy only allows returns/exchanges within 21 days of delivery. Sale items (like this one) are not eligible for refunds even if within the vendor's time window. Let me know if you'd like help with other orders!
+
+You: I need to return order O9999. Please help.
+AI: I'm sorry, but order O9999 doesn't appear in our system. Could you please double-check the order number? If you're still having trouble, share your email address or the date of purchase, and I'll help locate your order manually.
