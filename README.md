@@ -36,7 +36,7 @@ cp .env.example .env
 # Edit .env and paste your GROQ_API_KEY
 
 # 4. Run the agent
-uv run python retail_agent.py
+uv run retail_agent.py
 ```
 
 > ⚠️ **Windows Users:** If your terminal auto-activates a virtual environment on startup, run `deactivate` first before running the commands above. An already-active venv can conflict with `uv`.
@@ -64,7 +64,7 @@ Chat gets auto-saved to `demo.txt` when you exit.
 
 ### Why One Agent With Tools?
 
-The task needs one agent that does two jobs — recommend products and evaluate returns. Instead of building two separate systems, we use LangChain's `create_agent()` which gives the LLM four tools. The LLM reads the customer's message and picks the right tool on its own. No if/else routing needed.
+The task needs one agent that does two jobs — recommend products and evaluate returns. Instead of building two separate systems, I use LangChain's `create_agent()` which gives the LLM four tools. The LLM reads the customer's message and picks the right tool on its own. No if/else routing needed.
 
 ### How the Agent Works
 
@@ -186,9 +186,9 @@ flowchart TD
     A --> C["2. Tool Error Messages"]
     A --> D["3. Policy in Code"]
     
-    B --> B1["'Never invent products'\n'Never guess policy'"]
-    C --> C1["Tools return 'ERROR: not found'\nLLM sees error → tells customer honestly"]
-    D --> D1["evaluate_return does the math\nLLM just explains the verdict"]
+    B --> B1["'Never invent products'<br>'Never guess policy'"]
+    C --> C1["Tools return 'ERROR: not found'<br>LLM sees error → tells customer honestly"]
+    D --> D1["evaluate_return does the math<br>LLM just explains the verdict"]
 
     style A fill:#f44336,color:#fff
     style B fill:#E91E63,color:#fff
