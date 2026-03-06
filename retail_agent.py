@@ -1,4 +1,4 @@
-# Retail AI Assistant — Personal Shopper + Customer Support Agent
+# Retail-AI-Agent— Personal Shopper + Customer Support Agent
 from dotenv import load_dotenv
 load_dotenv()
 
