@@ -1,4 +1,4 @@
-# WEBVORY — Retail-AI-Agent
+# Retail-AI-Agent
 
 > A single AI agent that acts as both a **Personal Shopper** and **Customer Support Assistant** for a fashion boutique. It recommends products and handles return queries using real data — no hardcoded responses.
 
